@@ -24,7 +24,7 @@ public class playerHandler : MonoBehaviour
     {
         if (Keyboard.current == null) return;
 
-        // 1. Pobieranie czystego wejścia
+        
         float h = 0;
         float v = 0;
 
@@ -33,12 +33,12 @@ public class playerHandler : MonoBehaviour
         if (Keyboard.current.aKey.isPressed) h = -1;
         if (Keyboard.current.dKey.isPressed) h = 1;
 
-        // 2. Obliczanie kierunku WZGLĘDEM KAMERY
+        // Obliczanie kierunku WZGLĘDEM KAMERY
         // Bierzemy wektory "przód" i "prawo" kamery
         Vector3 forward = mainCameraTransform.forward;
         Vector3 right = mainCameraTransform.right;
 
-        // Zerujemy oś Y, żeby postać nie próbowała "lecieć" w górę, gdy kamera patrzy w dół
+        // Zerujemy oś Y
         forward.y = 0;
         right.y = 0;
         forward.Normalize();
@@ -47,7 +47,7 @@ public class playerHandler : MonoBehaviour
         // Tworzymy docelowy kierunek ruchu
         Vector3 moveDirection = (forward * v + right * h).normalized;
 
-        // 3. Obsługa animacji i poruszania
+        //  Obsługa animacji i poruszania
         if (moveDirection.magnitude >= 0.1f)
         {
             animator.SetBool("isWalking", true);
