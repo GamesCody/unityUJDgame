@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4738853ebca2c66429420e6fddae5145, type: 3}
+  m_Name: SchoolDialog
+  m_EditorClassIdentifier: Assembly-CSharp::DialogTree
+  nodes:
+  - nodeID: 0
+    lines:
+    - "Cze\u015B\u0107, jestem tu nowy w tej szkole."
+    - "Czy mo\u017Cesz mi powiedzie\u0107, gdzie jest sala lekcyjna?"
+    yesTarget: 1
+    noTarget: -1
+    yesLabel: "Poka\u017C sal\u0119"
+    noLabel: Nie wiem
+  - nodeID: 1
+    lines:
+    - "Sala jest tam, id\u017A prosto, potem w prawo."
+    - "Czy chcesz, \u017Cebym poszed\u0142 z tob\u0105?"
+    yesTarget: 2
+    noTarget: -1
+    yesLabel: "Tak, chod\u017A"
+    noLabel: "Nie, dzi\u0119kuj\u0119"
+  - nodeID: 2
+    lines:
+    - "\u015Awietnie \u2014 chod\u017Amy razem!"
+    - "Zaraz p\xF3jdziemy do sali."
+    yesTarget: -1
+    noTarget: -1
+    yesLabel: OK
+    noLabel: OK

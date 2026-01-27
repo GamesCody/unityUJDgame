@@ -1,0 +1,363 @@
+{
+    "catwalk-loop-378982": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "D:/ASSETY_3D/Unity/animacje",
+        "Object": {
+            "catwalk-loop-378982": {
+                "Generation": "AccuRig",
+                "Physics": {
+                    "Collision Shapes": {
+                        "root": {},
+                        "pelvis": {},
+                        "CC_Base_Pelvis": {},
+                        "spine_01": {},
+                        "spine_02": {},
+                        "spine_03": {},
+                        "neck_01": {},
+                        "CC_Base_NeckTwist02": {},
+                        "head": {},
+                        "CC_Base_FacialBone": {},
+                        "CC_Base_JawRoot": {},
+                        "CC_Base_Tongue01": {},
+                        "CC_Base_Tongue02": {},
+                        "CC_Base_Tongue03": {},
+                        "CC_Base_Teeth02": {},
+                        "CC_Base_R_Eye": {},
+                        "CC_Base_L_Eye": {},
+                        "CC_Base_UpperJaw": {},
+                        "CC_Base_Teeth01": {},
+                        "clavicle_l": {},
+                        "upperarm_l": {},
+                        "lowerarm_l": {},
+                        "CC_Base_L_ForearmTwist01": {},
+                        "CC_Base_L_ElbowShareBone": {},
+                        "hand_l": {},
+                        "middle_01_l": {},
+                        "middle_02_l": {},
+                        "middle_03_l": {},
+                        "index_01_l": {},
+                        "index_02_l": {},
+                        "index_03_l": {},
+                        "ring_01_l": {},
+                        "ring_02_l": {},
+                        "ring_03_l": {},
+                        "pinky_01_l": {},
+                        "pinky_02_l": {},
+                        "pinky_03_l": {},
+                        "thumb_01_l": {},
+                        "thumb_02_l": {},
+                        "thumb_03_l": {},
+                        "lowerarm_twist_01_l": {},
+                        "upperarm_twist_01_l": {},
+                        "CC_Base_L_UpperarmTwist02": {},
+                        "clavicle_r": {},
+                        "upperarm_r": {},
+                        "upperarm_twist_01_r": {},
+                        "CC_Base_R_UpperarmTwist02": {},
+                        "lowerarm_r": {},
+                        "CC_Base_R_ForearmTwist01": {},
+                        "CC_Base_R_ElbowShareBone": {},
+                        "hand_r": {},
+                        "middle_01_r": {},
+                        "middle_02_r": {},
+                        "middle_03_r": {},
+                        "ring_01_r": {},
+                        "ring_02_r": {},
+                        "ring_03_r": {},
+                        "thumb_01_r": {},
+                        "thumb_02_r": {},
+                        "thumb_03_r": {},
+                        "index_01_r": {},
+                        "index_02_r": {},
+                        "index_03_r": {},
+                        "pinky_01_r": {},
+                        "pinky_02_r": {},
+                        "pinky_03_r": {},
+                        "lowerarm_twist_01_r": {},
+                        "CC_Base_R_RibsTwist": {},
+                        "CC_Base_R_Breast": {},
+                        "CC_Base_L_RibsTwist": {},
+                        "CC_Base_L_Breast": {},
+                        "thigh_l": {},
+                        "calf_l": {},
+                        "foot_l": {},
+                        "CC_Base_L_ToeBaseShareBone": {},
+                        "ball_l": {},
+                        "CC_Base_L_PinkyToe1": {},
+                        "CC_Base_L_RingToe1": {},
+                        "CC_Base_L_MidToe1": {},
+                        "CC_Base_L_IndexToe1": {},
+                        "CC_Base_L_BigToe1": {},
+                        "calf_twist_01_l": {},
+                        "CC_Base_L_KneeShareBone": {},
+                        "CC_Base_L_CalfTwist02": {},
+                        "thigh_twist_01_l": {},
+                        "CC_Base_L_ThighTwist02": {},
+                        "thigh_r": {},
+                        "thigh_twist_01_r": {},
+                        "calf_r": {},
+                        "foot_r": {},
+                        "ball_r": {},
+                        "CC_Base_R_PinkyToe1": {},
+                        "CC_Base_R_BigToe1": {},
+                        "CC_Base_R_IndexToe1": {},
+                        "CC_Base_R_MidToe1": {},
+                        "CC_Base_R_RingToe1": {},
+                        "CC_Base_R_ToeBaseShareBone": {},
+                        "CC_Base_R_KneeShareBone": {},
+                        "calf_twist_01_r": {},
+                        "CC_Base_R_CalfTwist02": {},
+                        "CC_Base_R_ThighTwist02": {},
+                        "Mesh": {},
+                        "Mesh_001": {},
+                        "Plane_012": {},
+                        "Plane_013": {},
+                        "Plane_015": {}
+                    }
+                },
+                "Meshes": {
+                    "Mesh": {
+                        "Materials": {
+                            "Material_012_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    0.3539399802684784,
+                                    0.0,
+                                    5.111220359802246
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    0.3539399802684784,
+                                    0.0,
+                                    5.111220359802246
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Mesh_001": {
+                        "Materials": {
+                            "Material_011_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    11.415584564208985,
+                                    11.415584564208985,
+                                    11.415584564208985
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    11.415584564208985,
+                                    11.415584564208985,
+                                    11.415584564208985
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            },
+                            "Material_009_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            },
+                            "Material_010_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    12.630914688110352,
+                                    7.077270030975342,
+                                    33.65489959716797
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    12.630914688110352,
+                                    7.077270030975342,
+                                    33.65489959716797
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Plane_012": {
+                        "Materials": {
+                            "Material_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    14.647455215454102,
+                                    13.218689918518067,
+                                    13.218689918518067
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    14.647455215454102,
+                                    13.218689918518067,
+                                    13.218689918518067
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            },
+                            "Material_004_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    203.35255432128907,
+                                    149.8795623779297,
+                                    149.8795623779297
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    203.35255432128907,
+                                    149.8795623779297,
+                                    149.8795623779297
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            },
+                            "Material_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    4.3923749923706059,
+                                    2.499000072479248,
+                                    1.3428300619125367
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    4.3923749923706059,
+                                    2.499000072479248,
+                                    1.3428300619125367
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Plane_013": {
+                        "Materials": {
+                            "Material_013_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    7.6589250564575199,
+                                    5.28793478012085,
+                                    2.9070000648498537
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    7.6589250564575199,
+                                    5.28793478012085,
+                                    2.9070000648498537
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Plane_015": {
+                        "Materials": {
+                            "Material_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    14.647455215454102,
+                                    13.218689918518067,
+                                    13.218689918518067
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    14.647455215454102,
+                                    13.218689918518067,
+                                    13.218689918518067
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {},
+                                "Resource Textures": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

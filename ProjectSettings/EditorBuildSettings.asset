@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e01df9b7dd2f5c240af53e76658f8a07
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 6d4de4f85e6681845b326dd274681e62
+  - enabled: 1
+    path: Assets/Scenes/GameTurorial.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/END.unity
+    guid: e358d331d44126245b437c56a612baed
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: 0bec18f8693586042be1f012c741ecc6
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: f4a3a5ce44bafd14592260336c85f0ff
+  - enabled: 1
+    path: Assets/Scenes/Linux.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/DoorUnlock.unity
+    guid: 275bae8ddcdf2d346a462e8d44d3bcad
+  - enabled: 1
+    path: Assets/Scenes/Papier.unity
+    guid: 1003d2476f8a3484198bb637328aa4f8
+  - enabled: 1
+    path: Assets/Scenes/BattleScene2.unity
+    guid: 6efb013fcf6460640afe8e1dc7924c94
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
